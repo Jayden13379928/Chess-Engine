@@ -29,4 +29,4 @@ jobs:
         with:
           name: phoenix-chess-android-arm64
           path: target/release/apk/*.apk
-          if-no-files-found: error
+          if-no-files-found: error 
